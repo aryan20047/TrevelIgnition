@@ -1,4 +1,4 @@
-<div# Hi, I'm Aryan Pandey 👋
+Hi, I'm Aryan Pandey 👋
 
 🚀 Passionate about technology, data-driven problem solving, and building intelligent systems.
 
